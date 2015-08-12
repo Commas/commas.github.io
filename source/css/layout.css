@@ -40,6 +40,10 @@ header {
    overflow: hidden;
 }
 
+#loader {
+   background: #161415 url(../img/loader.gif);
+}
+
 /* vertically center banner section */
 header:before {
    content: '';
