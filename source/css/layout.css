@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(https://photos-5.dropbox.com/t/2/AABOVHmUEZLu699kAf5JhpOzk7pVIW1N6DxKwXxvgJkcvg/12/177106557/jpeg/32x32/1/1439377200/0/2/DSC_7604.JPG/CP3cuVQgASACKAEoAg/9mxamah6cyGyOJh3wv48TNXEXTPz8JDuB8rqzz1o93E?size=1024x768&size_mode=2) no-repeat top center;
+   background: #161415 url(../img/header-background.png) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
