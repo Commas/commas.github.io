@@ -1,5 +1,5 @@
 $(window).load(function() {
-	$('body').css({'overflow':'visible'});
 	$('#loader').hide();
+	$('#container').css({'overflow':'visible'});
 	$('#container').css('opacity', 1);
 });
