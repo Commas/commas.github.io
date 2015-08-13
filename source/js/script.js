@@ -1,6 +1,6 @@
 $(document).ready(function(){
-	$('body').attr('class','loading');
+	document.body.className = "loading";
 });
 $(window).load(function(){
-	$('body').attr('class','');
+	document.body.className = "";
 });
