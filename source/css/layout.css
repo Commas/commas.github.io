@@ -41,7 +41,7 @@ header {
 }
 
 #loader {
-   background: #FFFFFF url(../img/loader.gif);
+   background: #FFFFFF;
 }
 
 /* vertically center banner section */
