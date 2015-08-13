@@ -1,3 +1,3 @@
-$(window).load(function(){
-	$('body').attr('class','');
+$(window).ready(function() {
+    $('#loading').hide();
 });
