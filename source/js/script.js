@@ -1,4 +1,4 @@
 $(window).load(function() {
-	$('#loader').css('background', 'none');
+	$('#loader').hide();
 	$('#container').css('opacity', 1);
 });
